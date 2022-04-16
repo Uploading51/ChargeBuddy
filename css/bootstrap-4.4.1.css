@@ -1526,8 +1526,9 @@ pre code {
     flex: 0 0 33.333333%;
     max-width: 33.333333%;
   }
-.col-xl-6 .row .col-xl-4.cgType {
+  .col-xl-6 .row .col-xl-4.cgType {
 }
+
   .col-xl-5 {
     -ms-flex: 0 0 41.666667%;
     flex: 0 0 41.666667%;
@@ -10205,6 +10206,7 @@ a.text-dark:hover, a.text-dark:focus {
   	display: flex;
   	justify-content: center;
   	align-items: center;
+	padding-top: 10px;
 }
 
 .ad2 {
@@ -10216,6 +10218,8 @@ a.text-dark:hover, a.text-dark:focus {
 .cgType {
 	border-color: #7E7E7E;
 	border-style: solid;
+	text-align: center;
+	margin-top: 25px;
 }
 .Srch {
 	background-color: #0361CC;
